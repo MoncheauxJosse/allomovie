@@ -1,0 +1,9 @@
+div.nav{
+  background-color: rgb(245, 200, 2);  
+  color: rgb(0, 0, 0);
+  min-height: 50px;
+  max-height: 51px;
+  text-transform: uppercase;
+  text-align: center;
+  vertical-align: auto;
+}
